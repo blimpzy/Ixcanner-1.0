@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: Ixcanner
+Version: 100
+Summary: A minimalist program that scan things from your printer!
+Home-page: https://github.com/blimpzy
+Author: Igor Pontes
+Author-email: igoppop@gmail.com
+License: UNKNOWN
+Description: A program containing a very simple GUI so people can scan things in a easier and faster(hopefully) way. Made for noob linux users (like my father :D). THIS THING USES 'scanimage' TERMINAL COMMAND
+Platform: UNKNOWN

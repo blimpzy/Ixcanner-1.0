@@ -1,0 +1,4 @@
+#!/usr/bin/env python
+import ixcanner10.ixcanner
+
+ixcanner10.ixcanner.start()
