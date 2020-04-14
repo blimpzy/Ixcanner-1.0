@@ -8,7 +8,6 @@ import random
 import os
 from PIL import Image
 
-
 class IxcannerWindow(Gtk.Window):
 
     def __init__(self):
@@ -24,7 +23,6 @@ class IxcannerWindow(Gtk.Window):
         self.isSearchRunning = False
 
         self.printers = Gtk.Button()
-        
         
 
         self.set_resizable(False)
