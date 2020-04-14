@@ -13,7 +13,7 @@ You need to have "sane-utils" package installed.
 ```
 sudo apt-get install sane-utils
 ```
-Make sure you have Python 3 installed:
+* Make sure you have Python 3 installed:
 ```
 sudo apt-get install python3
 ```
