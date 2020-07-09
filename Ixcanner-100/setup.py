@@ -10,7 +10,7 @@ setup(name = "Ixcanner",
     description = "A minimalist program that scan things from your printer!",
     author = "Igor Pontes",
     author_email = "igoppop@gmail.com",
-    url = "https://github.com/fafuja",
+    url = "https://github.com/igor-pontes",
     #Name the folder where your packages live:
     #(If you have other packages (dirs) or modules (py files) then
     #put them into the package directory - they will be found 
